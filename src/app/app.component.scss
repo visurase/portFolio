@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+mat-sidenav {
+    width: 280px;
+    padding:15px;
+}
+.mat-drawer { 
+    min-width: 200px !important;
+    width: 85vw !important;
+    max-width: 400px !important;
+}
+
+
+.basic-details{
+    border: 1px solid #ccc ;
+    border-spacing: 15px;
+    
+    display: block !important;
+    border-radius :10px;
+    padding:20px;
+}
+
+.profile-icon{
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.text-content{
+    text-align: right;
+    float: right;
+}
+
+.location-icon {
+    height: 23px;
+    width: 50px;
+    border: 1px solid #ccc;
+    border-radius :2px;
+    background-color: rgb(192, 231, 19);
+    text-align: center;
+    margin-right: 12px
+  }
+
+  .number-icons{
+    height: 23px;
+    width: 50px;
+    border: 1px solid #ccc;
+    border-radius :2px;
+    background-color: rgb(235, 237, 226);
+    text-align: center;
+    margin-right: 12px
+  }
+
+  .rectangle{
+    width:200px;
+    height:100px;
+    background:blue;
+  }
+.name-details{
+    margin-top: 10px;
+}
